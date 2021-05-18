@@ -1,0 +1,79 @@
+.p{
+    text-align: center;
+}
+
+.a-box {
+    position: relative;
+    text-align: center;
+}
+
+.botton1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    position: absolute;
+    bottom: 5%;
+    left: 30%;
+
+}
+
+.b-box {
+    position: relative;
+    text-align: center;
+}
+
+.botton3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    position: absolute;
+    bottom: 10%;
+    left: 30%;  
+}
+
+.c-box {
+    position: relative;
+    text-align: center;
+}
+
+.botton4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    position: absolute;
+    bottom: 5%;
+    left: 30%;
+    }
+
+.d-box {
+    position: relative;
+    text-align: center;
+    }
+    
+.botton5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    position: absolute;
+    bottom: 5%;
+    left: 30%;
+    }
+
+    .e-box {
+        position: relative;
+        text-align: center;
+        }
+        
+    .botton6 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+        position: absolute;
+        bottom: 5%;
+        left: 30%;
+        }
