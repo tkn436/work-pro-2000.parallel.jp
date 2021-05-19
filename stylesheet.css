@@ -14,7 +14,7 @@
     cursor: pointer;
     position: absolute;
     bottom: 5%;
-    left: 23%;
+    text-align: center;
 
 }
 
@@ -30,7 +30,7 @@
     cursor: pointer;
     position: absolute;
     bottom: 10%;
-    left: 35%;  
+    text-align: center;  
 }
 
 .c-box {
@@ -45,7 +45,7 @@
     cursor: pointer;
     position: absolute;
     bottom: 5%;
-    left: 23%;
+    text-align: center;
     }
 
 .d-box {
@@ -60,7 +60,7 @@
     cursor: pointer;
     position: absolute;
     bottom: 5%;
-    left: 23%;
+    text-align: center;
     }
 
     .e-box {
@@ -75,5 +75,5 @@
         cursor: pointer;
         position: absolute;
         bottom: 5%;
-        left: 23%;
+        text-align: center;
         }
