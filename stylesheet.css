@@ -7,7 +7,7 @@
     text-align: center;
 }
 
-.botton1 {
+.botton1 a{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -23,7 +23,7 @@
     text-align: center;
 }
 
-.botton3{
+.botton3 a{
     display: flex;
     justify-content: center;
     align-items: end;
@@ -38,7 +38,7 @@
     text-align: center;
 }
 
-.botton4 {
+.botton4 a{
     display: flex;
     justify-content: center;
     align-items: end;
@@ -53,7 +53,7 @@
     text-align: center;
     }
     
-.botton5 {
+.botton5 a{
     display: flex;
     justify-content: center;
     align-items: end;
@@ -68,7 +68,7 @@
         text-align: center;
         }
         
-    .botton6 {
+    .botton6 a{
         display: flex;
         justify-content: center;
         align-items: end;
