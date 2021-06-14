@@ -77,10 +77,15 @@
         bottom: 5%;
         left: 23%;
         }
+
+    .pt{
+       text-align: center;
+        }
+
 　　.f-box{
         position: relative;
         text-align: center;
-    }
+        }
 
     .botton7{
         display: flex;
@@ -90,4 +95,4 @@
         position: absolute;
         bottom: 5%;
         left: 30%;
-    }
+        }
