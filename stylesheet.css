@@ -14,7 +14,7 @@
     cursor: pointer;
     position: absolute;
     bottom: 5%;
-    left: 23%;
+    left: 22%;
 
 }
 
@@ -45,7 +45,7 @@
     cursor: pointer;
     position: absolute;
     bottom: 5%;
-    left: 23%;
+    left: 22%;
     }
 
 .d-box {
@@ -60,7 +60,7 @@
     cursor: pointer;
     position: absolute;
     bottom: 5%;
-    left: 23%;
+    left: 22%;
    }
 
     .e-box {
@@ -75,27 +75,9 @@
         cursor: pointer;
         position: absolute;
         bottom: 5%;
-        left: 23%;
+        left: 22%;
         }
 
-    .pt{
-       text-align: center;
-        }
-
-　　.f-box{
-        position: relative;
-        text-align: center;
-        }
-
-    .botton7{
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        cursor: pointer;
-        position: absolute;
-        bottom: 5%;
-        left: 30%;
-        }
 .f-box{
         position: relative;
         text-align: center;
@@ -108,5 +90,5 @@
         cursor: pointer;
         position: absolute;
         bottom: 1.5%;
-        left: 30%;
+        left: 22;
     }
