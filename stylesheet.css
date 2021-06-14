@@ -96,3 +96,17 @@
         bottom: 5%;
         left: 30%;
         }
+.f-box{
+        position: relative;
+        text-align: center;
+    }
+
+    .botton7{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+        position: absolute;
+        bottom: 3%;
+        left: 30%;
+    }
